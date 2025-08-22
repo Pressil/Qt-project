@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>oisaw.png</file>
+        <file>free-arrow-back-icon-3783-thumb.png</file>
+        <file>png-clipart-button-back-s-blue-text.png</file>
+        <file>back ground.png</file>
+        <file>back.png</file>
+        <file>backfinal.png</file>
+        <file>search-icon-2044x2048-psdrpqwp.png</file>
+        <file>search.png</file>
+        <file>location.png</file>
+        <file>hum.png</file>
+        <file>tempt.png</file>
+        <file>Button_Icon_Green.svg-removebg-preview.png</file>
+        <file>bk.png</file>
+        <file>bl.png</file>
+        <file>red-removebg-preview.png</file>
+        <file>vk.png</file>
+        <file>large-orange-circle_1f7e0-removebg-preview.png</file>
+        <file>gif.gif</file>
+        <file>yzpGZve0Vu.gif</file>
+        <file>backg.png</file>
+        <file>mapg.png</file>
+        <file>graph.png</file>
+        <file>graphf.png</file>
+        <file>Getstarted.png</file>
+        <file>start.png</file>
+        <file>call.png</file>
+    </qresource>
+</RCC>
